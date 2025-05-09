@@ -1,0 +1,1 @@
+VERIFICADOR-DE-COREEOS-OK.py filter=lfs diff=lfs merge=lfs -text
